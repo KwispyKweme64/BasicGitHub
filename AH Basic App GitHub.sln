@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AH Basic App GitHub", "AH Basic App GitHub\AH Basic App GitHub.csproj", "{AED4B09D-A4E5-4CB8-97B8-7BEF50B70B23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAppTest3", "BasicAppTest3\BasicAppTest3.csproj", "{F39C21C9-0B50-402E-8B75-FCA9A7B26A58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED4B09D-A4E5-4CB8-97B8-7BEF50B70B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED4B09D-A4E5-4CB8-97B8-7BEF50B70B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED4B09D-A4E5-4CB8-97B8-7BEF50B70B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED4B09D-A4E5-4CB8-97B8-7BEF50B70B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39C21C9-0B50-402E-8B75-FCA9A7B26A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39C21C9-0B50-402E-8B75-FCA9A7B26A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39C21C9-0B50-402E-8B75-FCA9A7B26A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39C21C9-0B50-402E-8B75-FCA9A7B26A58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22A2F5E5-DE0C-4B35-B045-DBBEA9D5D10B}
+	EndGlobalSection
+EndGlobal
